@@ -91,6 +91,7 @@ const DownArrow = styled.img`
   margin-top: 20px;
   height: 40px;
   overflow-x: hidden;
+  width: 100%;
   animation: animateDown infinite 1.5s;
 `
 
